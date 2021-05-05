@@ -2,8 +2,8 @@
 
 Which metrics influence Airbnb’s guest reviews? 
 
-### Project Goal
-In this BIA project we are hoping to utilize the LA Airbnb Listings dataset in order to test the impact of certain metrics (such as price, location, host profile, amenities) on an Airbnb’s overall ratings. The reviews left by Airbnb guests help power their recommendations algorithm, increase sales for hosts on the platform, and fuel their overall ebookings business. Through looking at past reviews and how certain metrics may have influenced them, we hope to discover which aspects of the guest experience Airbnb’s strategy team should focus on improving to provide their customers with the best experience possible and boost their reviews/ratings on the platform. 
+### Goal
+We are hoping to utilize the LA Airbnb Listings dataset in order to test the impact of certain metrics (such as price, location, host profile, amenities) on an Airbnb’s overall ratings. The reviews left by Airbnb guests help power their recommendations algorithm, increase sales for hosts on the platform, and fuel their overall ebookings business. Through looking at past reviews and how certain metrics may have influenced them, we hope to discover which aspects of the guest experience Airbnb’s strategy team should focus on improving to provide their customers with the best experience possible and boost their reviews/ratings on the platform. 
 
 A lot of AirBnb customers as well as hosts rely on reviews. Reviews are very important as they give insight to both the customer as well as the host to know what they are getting into. A good review can make or break a host's life on this app. We want to analyze what other factors go into affecting a customer’s review. This would increase the credibility of a review as we can validate it based on the factors we have taken into account. This would also motivate hosts to increase their quality of stay for customers making the app more useful for customers.
 Data Description
