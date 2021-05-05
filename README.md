@@ -2,7 +2,7 @@
 
 Which metrics influence Airbnb’s guest reviews? 
 
-[Airbnb Analytics Project Overivew & Findings] (https://docs.google.com/presentation/d/1eSemTVEjqQycnH_mSbbX3vGekGQFGTVFvG3zooCCyIc/edit?usp=sharing) 
+[Airbnb Analytics Project Overivew & Findings](https://docs.google.com/presentation/d/1eSemTVEjqQycnH_mSbbX3vGekGQFGTVFvG3zooCCyIc/edit?usp=sharing) 
 
 ### Goal
 We are hoping to utilize the LA Airbnb Listings dataset in order to test the impact of certain metrics (such as price, location, host profile, amenities) on an Airbnb’s overall ratings. 
