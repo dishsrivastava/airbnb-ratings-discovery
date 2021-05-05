@@ -2,15 +2,10 @@
 
 Which metrics influence Airbnb’s guest reviews? 
 
+[Airbnb Analytics Project Overivew & Findings] (https://docs.google.com/presentation/d/1eSemTVEjqQycnH_mSbbX3vGekGQFGTVFvG3zooCCyIc/edit?usp=sharing) 
+
 ### Goal
-We are hoping to utilize the LA Airbnb Listings dataset in order to test the impact of certain metrics (such as price, location, host profile, amenities) on an Airbnb’s overall ratings. The reviews left by Airbnb guests help power their recommendations algorithm, increase sales for hosts on the platform, and fuel their overall ebookings business. Through looking at past reviews and how certain metrics may have influenced them, we hope to discover which aspects of the guest experience Airbnb’s strategy team should focus on improving to provide their customers with the best experience possible and boost their reviews/ratings on the platform. 
-
-A lot of AirBnb customers as well as hosts rely on reviews. Reviews are very important as they give insight to both the customer as well as the host to know what they are getting into. A good review can make or break a host's life on this app. We want to analyze what other factors go into affecting a customer’s review. This would increase the credibility of a review as we can validate it based on the factors we have taken into account. This would also motivate hosts to increase their quality of stay for customers making the app more useful for customers.
-Data Description
-
-Airbnb is an online platform connecting users who want to rent out their properties to those who are looking for short-term leases or rentals. The host essentially adds a description of the listing and charges based on the duration of the stay. The potential guests are then connected to them through Airbnb, and the hosts and guests then communicate with each other regarding any questions or information about the property and reservation. After the guests leave, they may leave any reviews and ratings about the listing and host, which depict their experience staying there. 
-
-The dataset used in this study is from Kaggle.com, which is originally sourced from Inside Airbnb, an investigatory website on how Airbnb is being used in cities around the world, for Los Angeles locations. This dataset contains 31,253 listings organized into 95 columns. These columns have an incredibly wide range, from the latitude and longitude of the listing, to their cancellation policy. We will specifically be focusing on the columns pertaining to our research questions, which are listed below. 
+We are hoping to utilize the LA Airbnb Listings dataset in order to test the impact of certain metrics (such as price, location, host profile, amenities) on an Airbnb’s overall ratings. 
 
 ### Research Questions
 - Is there a correlation between the neighborhood and ratings?
@@ -28,7 +23,7 @@ We aim to analyze Airbnb’s data to discover how different factors influence ra
 
 Airbnb is one of the world’s most valuable vacation listing services and with that comes a very large user base. To select the best listing, customers of Airbnb primarily look at reviews of listings, hosts and prices to determine a good fit for a new vacation stay. Analyzing these metrics help Airbnb decide how to prioritize their listings and showcase top hosts and top priced listings. The potential business implications that we can apply with our insights would involve helping Airbnb and their customers better understand hosts, listings, and how ratings are finally decided based on these different criteria/attributes. 
 
-[Why reviews matter | Reviews build trust in the community and help drive your business.][https://www.airbnb.com/resources/hosting-homes/a/why-reviews-matter-41]
+[Why reviews matter | Reviews build trust in the community and help drive your business.](https://www.airbnb.com/resources/hosting-homes/a/why-reviews-matter-41)
 
 ### Preliminary Analysis of DataSet
 Key Columns (and data types): 
